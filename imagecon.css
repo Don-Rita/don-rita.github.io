@@ -1,0 +1,32 @@
+    /* image convert css */
+    
+    .mainbody {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+			margin-left:100px;
+			padding: 10px;
+    }
+
+    .maincont {
+        text-align: center;
+    }
+        
+        input[type="file"] {
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            background-color: #4CAF50;
+            color: #ffffff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
