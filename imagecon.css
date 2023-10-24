@@ -3,7 +3,7 @@
     .mainbody {
         display: flex;
         justify-content: center;
-        align-items: right;
+        align-items: center;
         flex-direction: column;
 			margin-left:100px;
 			padding: 10px;
