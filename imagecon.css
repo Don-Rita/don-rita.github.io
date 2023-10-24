@@ -17,7 +17,7 @@
             margin-bottom: 20px;
         }
 
-       button {
+       #convertButton {
             padding: 10px 20px;
             border: none;
             border-radius: 4px;
@@ -27,6 +27,6 @@
             cursor: pointer;
         }
 
-        button:hover {
+        #convertButton:hover {
             background-color: #45a049;
         }
